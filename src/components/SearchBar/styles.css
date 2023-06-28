@@ -1,0 +1,10 @@
+.ct-search-bar {
+    height: 40px;
+    display: flex;
+    color: var(--ct-color-grey-secundary);
+}
+
+.ct-search-bar input {
+    max-width: 900px;
+    padding: 0 10px;
+}
