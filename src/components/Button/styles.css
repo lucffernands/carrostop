@@ -1,0 +1,13 @@
+.ct-button{
+    height: 40px;
+    width: 100%;
+    background-color: var(--ct-color-blue);
+    color: var(--ct-color-white);
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px; 
+}

@@ -3,8 +3,9 @@
 :root {
   --ct-color-white: #FFF;
   --ct-color-orange: #F78B00;
-  --ct-color-grey: #EDEDED;
-  --ct-color-grey-secundary: #A7A7A7;
+  --ct-color-grey-card: #EDEDED;
+  --ct-color-grey-search: #A7A7A7;
+  --ct-color-grey-text: #585858;
   --ct-color-blue: #00285F;
   --ct-color-black: #000;
 }

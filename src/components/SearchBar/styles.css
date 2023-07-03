@@ -5,12 +5,12 @@
 .ct-search-bar input {
     padding: 0 15px;
     border-radius: 5px 0px 0px 5px;
-    border: 1px solid var(--ct-color-grey-secundary);
+    border: 1px solid var(--ct-color-grey-search);
     border-right: none;
 }
 
 .ct-search-bar input::placeholder {
-    color: var(--ct-color-grey-secundary);
+    color: var(--ct-color-grey-search);
 }
 
 .ct-search-bar input:focus {
